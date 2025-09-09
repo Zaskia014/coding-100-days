@@ -2,22 +2,22 @@
 package javaapplication2;
 
 public class Day2 {
-    
+
     public static void main(String[] args) {
-        
-        String nama = "zaskia";
-        
+
         //println
         System.out.println("hello world");
-        
-          //printf
-        System.out.printf(nama);
-        
+
         //print
-        System.out.print(" hello");
-        
-      
+        System.out.print("hai");
+
+        //printf
+        String nama = "zaskia";
+        int umur = 20;
+        System.out.println();
+        System.out.printf("Halo, nama saya %s dan umur saya %d tahun", nama, umur);
+
     }
-    
+
 }
 
