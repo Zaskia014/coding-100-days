@@ -1,0 +1,17 @@
+package javaapplication2;
+
+public class Day2 {
+    
+    public static void main(String[] args) {
+        
+        //println
+        System.out.println("hello world");
+        
+        //print
+        System.out.print("hello");
+        
+        //printf
+        System.out.printf("hai");
+    }
+    
+}
