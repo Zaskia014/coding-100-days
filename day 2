@@ -1,17 +1,23 @@
+
 package javaapplication2;
 
 public class Day2 {
     
     public static void main(String[] args) {
         
+        String nama = "zaskia";
+        
         //println
         System.out.println("hello world");
         
-        //print
-        System.out.print("hello");
+          //printf
+        System.out.printf(nama);
         
-        //printf
-        System.out.printf("hai");
+        //print
+        System.out.print(" hello");
+        
+      
     }
     
 }
+
