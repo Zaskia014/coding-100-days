@@ -1,8 +1,8 @@
 
 package coding100days;
 
-
 public class Day8 {
+    
     public static void main(String[] args) {
         
         String nama = "Zaskia";
