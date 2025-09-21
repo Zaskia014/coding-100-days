@@ -1,7 +1,7 @@
 package coding100days;
 
 public class Day6 {
-
+    
     public static void main(String[] args) {
     
         float angkaFloat = 3.14f;   // wajib pakai 'f'
