@@ -1,7 +1,7 @@
 package coding100days;
 
 public class Day5 {
-
+    
     public static void main(String[] args) {
 
         byte umur = 20;
