@@ -1,7 +1,7 @@
 package coding100days;
 
 public class Day7 {
-
+    
     public static void main(String[] args) {
         
         char Jenis_kelamin = 'P';
