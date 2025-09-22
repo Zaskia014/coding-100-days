@@ -1,0 +1,13 @@
+package coding100days;
+
+public class Day13 {
+
+    public static void main(String[] args) {
+
+        //nmr 1
+        System.out.printf("%-10s %10s%n", "Produk", "Harga");
+        System.out.printf("%-10s %10d%n", "Apel", 10000);
+        System.out.printf("%-10s %10d%n", "Jeruk", 12000);
+        System.out.printf("%-10s %10d%n", "Mangga", 15000);
+    }
+}
